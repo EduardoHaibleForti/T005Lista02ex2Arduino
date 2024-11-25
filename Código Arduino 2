@@ -1,0 +1,1 @@
+cameraData[3] = analogRead(A1);
